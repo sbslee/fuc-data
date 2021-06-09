@@ -1,0 +1,7 @@
+##fileformat=VCFv4.2
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	Steven_A	Steven_B	Steven_C	John_A	John_B	John_C	Sara_A	Sara_B	Sara_C
+chr1	100	.	A	T	.	.	.	GT	1/1	0/1	0/1	0/1	0/1	0/1	./.	0/1	0/0
+chr1	101	.	A	T	.	.	.	GT	0/1	0/1	0/1	0/1	0/1	0/1	0/1	0/1	1/1
+chr1	102	.	A	T	.	.	.	GT	./.	0/1	0/1	0/1	./.	1/1	0/0	0/1	0/1
+chr1	103	.	A	T	.	.	.	GT	./.	0/0	0/1	0/1	./.	0/0	0/0	0/1	0/1
+chr1	104	.	A	T	.	.	.	GT	./.	0/0	0/1	0/1	./.	0/1	0/0	0/1	0/1
